@@ -1,5 +1,5 @@
 # ST25DV
-本例程仅供学习、参考。如您下载、使用本例程，将视为您同意本软件License agreement与本文重要通知之约定。
+
 401例程应用指南
 401例程“401_I2C_GPO”重点讲述如何通过I2C使能Dtag GPO的FieldDetect, RF_Activity, RF_User, RF_Write, RF_interrupt, RF_PUT_MSG功能。
 
